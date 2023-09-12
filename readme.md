@@ -16,7 +16,9 @@ Popis: Vytvoření databáze projektů, materiálů a jejich složení
 - Filtrace materiálu podle technického listu (one-TL has many)
 - Filtrace projektů podle čísla materiálu, dílu či přípravku
 - Ukládání informací o složení chemických přípravků a materiálů
-    - Vrátit se a popsat řádky/sloupce
+    - Řádky budou kluzné láky (dle názvu)
+    - Sloupce jsou podle složení (např. benzen) + IMDS/BS ID, viz fotka v originálním materiálu
+    - Obsahem je procento
 - Vyhledávání
     - materiálů podle čísla technického listu
     - materiálů podle názvu projektu
