@@ -45,3 +45,19 @@ Popis: Vytvoření databáze projektů, materiálů a jejich složení
 - Prezentace a obhajoba programu
 - Jednoduché logo
 
+
+#### Jednotlivé jména věcí **Filtr Materiálu**
+- Kontrola počtu
+- Počet materiálu
+- najaký OK
+- Název projektu Projekt1 etc.
+- TL/TDS 1,2,,3,4,etc.
+- Sklo SR,QLF,WS,BL,FDF,RDF,RD,FD,FFX,BL,etc. = Typ materiálu (asi) 
+- Materiál1,etc. a potom ještě nějaké ID nějaké ID mají jednu nebo více / ID = SAP číslo
+- Každý materiál má ano/ne
+- Nějaké materiály mají jinou barvu je to kvůli tomu že něco je čistič nebo aktivátor, kluzný lak, Granulát
+- Počet materiálu: 116 etc.
+  #### Jednotlivé jména věcí **Čističe a aktivátory**
+- Čistič 1-10 mby more
+- Jestli jsou aktivní nebo ne 
+
